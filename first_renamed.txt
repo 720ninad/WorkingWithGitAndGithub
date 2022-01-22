@@ -1,0 +1,8 @@
+this is version 1
+now i want this to goto commit 2
+
+
+
+changed
+
+again changed
